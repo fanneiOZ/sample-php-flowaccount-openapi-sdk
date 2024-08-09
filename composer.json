@@ -1,0 +1,17 @@
+{
+  "name": "flowaccount/sample-php-flowaccount-openapi-sdk",
+  "description": "Sample demo using the OpenAPI SDK for PHP",
+  "license": "proprietary",
+  "authors": [
+    { "name": "Panya Batphantana", "email": "fanneioz@yahoo.co.th" }
+  ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/flowaccount/flowaccount-openapi-sdk-php.git"
+    }
+  ],
+  "require": {
+    "flowaccount/flowaccount-openapi-sdk-php": "*@dev"
+  }
+}
